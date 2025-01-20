@@ -1,0 +1,4 @@
+org.springframework.boot.context.config.ConfigDataLocationResolver=\
+de.gorbatykh.spring_boot.property_resolving_bug.SecretManagerStubConfigDataLocationResolver
+org.springframework.boot.context.config.ConfigDataLoader=\
+de.gorbatykh.spring_boot.property_resolving_bug.SecretManagerStubConfigDataLoader
